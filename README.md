@@ -67,4 +67,16 @@ Collects (x, y) pairs, computes distances, and finds closest/farthest points.
 
 ---
 
+## **Day 6 — Functions**
+### Project 1 — Temperature Converter  
+Converts between Celsius and Fahrenheit using separate functions, proper parameters, and return values. Includes input validation and clear separation of logic.
+
+### Project 2 — Bank Account Simulator  
+Simulates deposits, withdrawals, and balance checking with functions. Demonstrates state management, scope handling (`global`), and error handling in a menu-driven interface.
+
+### Project 3 — Text Analyzer  
+Analyzes a paragraph of text using a main function and helper functions. Counts words, unique words, most common word(s), and sentences. Focuses on modular design and dictionary usage.
+
+---
+
 More days will be added as the challenge continues.
