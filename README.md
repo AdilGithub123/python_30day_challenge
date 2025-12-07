@@ -1,83 +1,70 @@
-# Python Zero-to-Hire Journey — 30-Day Portfolio
+# Python 30-Day Foundations Challenge
 
-This repository documents a full 30-day training program designed to take a beginner-level developer and build them into a job-ready Python backend engineer.
+A structured, incremental journey through the fundamentals of Python.  
+Each day introduces new core concepts through three small, focused projects.
 
-Each day contains:
-- A short theory summary
-- 2–3 practical projects
-- Clean, professional Python code
-- A dedicated README explaining the day’s goals
-
-By Day 30, this repo becomes a complete portfolio demonstrating:
-- Python fundamentals
-- Data structures
-- Algorithms & problem solving
-- OOP concepts
-- File handling
-- Error handling
-- Modules & packages
-- API development with FastAPI
-- Databases (PostgreSQL)
-- Full backend project
-- Deployment-ready applications
+This repo documents all completed days and their projects.
 
 ---
 
-## 🔥 Progress Overview
+## **Day 1 — Variables, Input, Output**
+### Project 1 — Area of a Rectangle  
+Basic arithmetic with user input.
 
-### ✅ Day 1 — Basic Input, Math, and Conditionals  
-Projects:  
-- Grade calculator  
-- Simple interest calculator  
-- KM/miles converter  
+### Project 2 — Temperature Converter  
+Celsius/Fahrenheit converter using formulas.
 
-### ✅ Day 2 — Conditionals & Input Validation  
-Projects:  
-- Age group classifier  
-- Password strength checker  
-- Basic calculator with error handling  
-
-### ✅ Day 3 — Loops, Iteration, and Logic  
-Projects:  
-- Sum of even numbers  
-- Shopping list manager  
-- Number guessing game  
-
-### ✅ Day 4 — String Manipulation & Text Processing  
-Projects:  
-- Name normalizer  
-- Email validator  
-- Word frequency counter  
+### Project 3 — Tip Calculator  
+Simple percentage math and formatted output.
 
 ---
 
-## 🎯 Long-Term Goal
-Build a portfolio strong enough to apply for:
-- Junior Python Developer  
-- Backend Developer (Python + FastAPI)  
-- API Developer  
-- Junior Software Engineer  
-- Automation Scripting roles  
+## **Day 2 — Conditionals**
+### Project 1 — Age Group Classifier  
+Classifies user age into categories with validation.
 
-This repository shows a clear progression from beginner skills to production-level backend development.
+### Project 2 — Password Strength Checker  
+Basic alpha/digit validation with `any()`.
 
-Stay tuned — each new day adds more depth, complexity, and real-world relevance.
+### Project 3 — Simple Calculator  
+Supports +, -, \*, / with error handling and exit conditions.
 
 ---
 
-Every folder contains:
-- Source code  
-- A README explaining that day’s projects  
+## **Day 3 — Loops**
+### Project 1 — Sum of Even Numbers  
+List building via loops and conditional aggregation.
+
+### Project 2 — Shopping List Manager  
+A menu-driven loop that adds/removes/displays items until exit.
+
+### Project 3 — Number Guessing Game  
+Random number guessing with hints and attempt counting.
 
 ---
 
-## 🚀 Final Output (Day 30)
-A complete FastAPI backend project + database + auth + deployment + testing suite — ready to show employers.
+## **Day 4 — Strings**
+### Project 1 — Name Normalizer  
+Strips spaces, fixes casing, and rebuilds clean names.
+
+### Project 2 — Email Validator  
+Very lightweight sanity-check rules using string methods.
+
+### Project 3 — Word Frequency Counter  
+Lowercases, removes punctuation, splits, and counts using a dictionary.
 
 ---
 
-## ⭐ About This Journey
-This is a **hands-on, project-driven** approach.  
-No tutorials, no YouTube, no external sources — only code, guidance, and daily improvement.
+## **Day 5 — Dictionaries, Sets, Tuples**
+### Project 1 — Student Score Analyzer  
+Stores name/score pairs, finds high/low, computes average, and reports above-average students.
 
-By the end, this repo **proves** your growth from Day 1 to Day 30 in a way employers can *see*.
+### Project 2 — Unique Word Extractor  
+Extracts distinct normalized words via a set and outputs them alphabetically.
+
+### Project 3 — Tuple-Based Coordinate System  
+Collects (x, y) pairs, computes distances, and finds closest/farthest points.
+
+---
+
+More days will be added as the challenge continues.
